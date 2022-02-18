@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Afridi0
+- 👋 Hi, I’m @Afridi
 - 👀 I’m interested in web development and java programing
 - 🌱  core java
 - 💞️ I’m looking to collaborate on web developer
